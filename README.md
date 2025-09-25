@@ -9,17 +9,20 @@ I'm currently pursuing a degree in Computer Science with a focus on web and mobi
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=bernardoproti&theme=dark&hide_border=false&include_all_commits=false&count_private=true" 
+    width="50%"
     height="150" 
     alt="GitHub Stats"/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoproti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    width="50%"
     height="150" 
     alt="Most Used Languages"/>
 </p>
 
 <p align="center">
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=bernardoproti&theme=dark&hide_border=false" 
+    src="https://nirzak-streak-stats.vercel.app/?user=bernardoproti&theme=dark&hide_border=false"
+    width="100%"
     height="150" 
     alt="GitHub Streak"/>
 </p>
