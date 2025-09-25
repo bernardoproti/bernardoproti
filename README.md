@@ -13,7 +13,6 @@ I'm currently pursuing a degree in Computer Science with a focus on web and mobi
     alt="GitHub Stats"/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoproti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-    width="400"
     height="150" 
     alt="Most Used Languages"/>
 </p>
